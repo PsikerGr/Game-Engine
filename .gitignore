@@ -1,0 +1,10 @@
+
+Engine/\.vs/
+
+Engine/Engine/x64/Debug/Engine\.tlog/
+
+Engine/MathLib/x64/Debug/MathLib\.tlog/
+
+Engine/MathLib/x64/Debug/Mat4\.obj
+
+*.log
